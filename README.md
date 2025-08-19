@@ -1,16 +1,38 @@
-## Hi there 👋
+# Salut 👋, je suis Ayman
 
-<!--
-**ayman-trabelsi/ayman-trabelsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Développeur en Systèmes Informatiques** | Passionné par le développement full-stack et l'automatisation CI/CD 🚀  
+Je transforme des idées en applications web robustes avec **.NET, Blazor, ReactJS et Django**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projets récents
+- **Service Après-Vente (Blazor + .NET)**  
+  Gestion des réclamations avec authentification par rôles et dashboard pour Admin/User 🛠️  
+- **React + Django + MySQL**  
+  Application full-stack avec environnements dev/production, Docker et CI/CD via Jenkins ⚙️  
+
+---
+
+## 🌱 Compétences
+- **Frontend** : ReactJS ⚛️, Blazor 🟣, HTML 📝, CSS 🎨, Tailwind 💨  
+- **Backend** : .NET 8 💻, C# 🔹, Django 🐍, Python 🐍  
+- **Database** : MySQL 🗄️, SQL Server 🛢️  
+- **DevOps & CI/CD** : Docker 🐳, Jenkins 🔧, GitHub Actions ⚡, SonarQube 🕵️‍♂️  
+- **Outils** : Git 🌿, Visual Studio 🖥️, Postman 📬
+
+---
+
+## 📫 Contact
+- ✉️ Email : [aymantrabelsi43@gmail.com](mailto:aymantrabelsi43@gmail.com)  
+- 🌐 LinkedIn : [ayman-trabelsi](https://www.linkedin.com/in/ayman-trabelsi)  
+- 💻 GitHub : [github.com/ayman-trabelsi](https://github.com/ayman-trabelsi)
+
+---
+
+## ⚡ Fun fact
+Je combine **développement et automatisation** pour rendre les projets plus rapides, fiables et… fun à utiliser 😎🎯  
+
+---
+
+## 🏆 GitHub Stats
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-trabelsi&show_icons=true&theme=radical)
