@@ -7,16 +7,12 @@ Curieux de nature, j'aime comprendre comment les choses fonctionnent et les amé
 
 ## 🔭 Projets récents
 
-- **Plateforme d'assistance routière en temps réel** *(Stage de fin d'études — For Right Solution)*
+- **Plateforme d'assistance routière en temps réel** 
   Deux apps mobiles cross-platform (client & prestataire) + dashboard web React d'administration.
   Communication temps réel via **MQTT HiveMQ**, géolocalisation intelligente par zones hexagonales **Uber H3**, validation IA des documents, déploiement automatisé via **Docker** et **Jenkins** 🛠️
 
-- **Pipeline CI/CD automatisé** *(Stage-Projet — kpit)*
+- **Pipeline CI/CD automatisé**
   Conception et déploiement d'un environnement CI/CD scalable via **Jenkins**, automatisation de l'infrastructure et des stratégies de déploiement pour un cycle de développement plus rapide et plus sûr ⚙️
-
-- **Suivi GPS en temps réel** *(Stage-Projet — For Right Solution)*
-  App mobile de géolocalisation (**React Native / Expo**) avec carte interactive, visualisation de trajet et boussole dynamique, connectée à un broker **MQTT HiveMQ** partagé avec une page web complémentaire 🗺️
-
 ---
 
 ## 🌱 Compétences
